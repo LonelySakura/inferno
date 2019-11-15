@@ -1,5 +1,6 @@
 def main():
-    print("new git")
+    print("print(print(print(print(print(print(print(print(print(print(print(print(print(print(print())))))))))))))))")
+    print("Hto ya)")
 
 
 if __name__ == "__main__":
