@@ -1,3 +1,4 @@
 print("alloel")
-while True:
+a = True
+While a is True:
   print('bruhmoment' * 10)
