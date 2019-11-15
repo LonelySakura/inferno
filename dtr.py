@@ -1,2 +1,3 @@
 print("alloel")
-4556
+While True:
+  print('bruh')
